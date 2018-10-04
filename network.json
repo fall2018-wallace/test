@@ -11,7 +11,7 @@
                     "type": "csv"
                 }
             ],
-            "source": "scprc_est_2017_18_pop_res.csv",
+            "source": "test.csv",
             "target": "clean.R"
         },
         {
@@ -27,7 +27,7 @@
     ],
     "nodes": [
         {
-            "name": "scprc_est_2017_18_pop_res.csv"
+            "name": "test.csv"
         },
         {
             "assigned_to": "srbinani",
@@ -42,6 +42,6 @@
             "name": "test1.R"
         }
     ],
-    "updated_at": "2018-10-04 17:19:49",
+    "updated_at": "2018-10-04 17:29:40",
     "url": "https://github.com/fall2018-wallace/test"
 }
