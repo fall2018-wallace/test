@@ -30,12 +30,18 @@
             "name": "scprc_est_2017_18_pop_res.csv"
         },
         {
-            "name": "clean.R"
+            "assigned_to": "srbinani",
+            "name": "clean.R",
+            "task_status": "in progress"
         },
         {
             "name": "data.csv"
+        },
+        {
+            "desc": "",
+            "name": "test1.R"
         }
     ],
-    "updated_at": "2018-10-04 16:48:44",
+    "updated_at": "2018-10-04 17:19:49",
     "url": "https://github.com/fall2018-wallace/test"
 }
